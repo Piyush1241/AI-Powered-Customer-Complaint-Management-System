@@ -1,7 +1,7 @@
 import React from 'react';
 import { useSelector, useDispatch } from 'react-redux';
 import { setActiveTab } from '../store/complaintSlice';
-import { ShieldCheck, FileText, LayoutDashboard, Sparkles, Code2 } from 'lucide-react';
+import { ShieldCheck, FileText, LayoutDashboard, Sparkles } from 'lucide-react';
 
 export default function Navbar() {
   const dispatch = useDispatch();

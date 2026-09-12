@@ -4,7 +4,6 @@ import Navbar from './components/Navbar';
 import ComplaintForm from './components/ComplaintForm';
 import CopilotPanel from './components/CopilotPanel';
 import ComplaintList from './components/ComplaintList';
-import CodeWalkthrough from './components/CodeWalkthrough';
 
 export default function App() {
   const activeTab = useSelector((state) => state.complaint.activeTab);
@@ -47,13 +46,9 @@ export default function App() {
               <CopilotPanel />
             </div>
           </div>
-        ) : activeTab === 'dashboard' ? (
-          <div className="h-[calc(100vh-140px)]">
-            <ComplaintList />
-          </div>
         ) : (
           <div className="h-[calc(100vh-140px)]">
-            <CodeWalkthrough />
+            <ComplaintList />
           </div>
         )}
       </main>
