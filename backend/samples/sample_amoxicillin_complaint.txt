@@ -1,0 +1,23 @@
+PHARMACEUTICAL CUSTOMER COMPLAINT DOCUMENT
+--------------------------------------------------
+Document Type: Official QA Defect Notification (PDF Email Attachment)
+Date Received: September 10, 2026
+Source: St. Jude Children's Research Hospital - Pharmacy Department
+Reporter: Dr. Sarah Jenkins (Chief Hospital Pharmacist)
+Contact Email: s.jenkins@stjudehospital.org | Phone: (555) 019-2831
+
+PRODUCT & BATCH DETAILS:
+Product Name: Amoxicillin Trihydrate Oral Capsules
+Dosage Form: Hard Gelatin Capsule
+Product Type: Finished Dosage Form (FDF)
+Strength / Concentration: 500 mg
+Batch / Lot Number: AMX-2024-09A
+Manufacturing Date: 2026-06-15
+Expiry Date: 2028-06-14
+Affected Quantity: 2,500 Capsules (50 bottles of 50 capsules)
+
+COMPLAINT DESCRIPTION & QUALITY DEFECT DETAILED OBSERVATIONS:
+During routine dispensing at the pediatric outpatient clinic, pharmacy staff observed severe discoloration in multiple blister packages from Lot #AMX-2024-09A. The standard opaque white/blue capsules exhibited mottled brownish specks, localized swelling, and clumping within the aluminum foil blisters. Upon opening 3 sample bottles, a faint sour odor was noted.
+
+No adverse clinical events have been reported to date, but affected bottles have been removed from clinical inventory immediately. Quarantine tags have been attached. Requesting immediate investigation, QA disposition, and credit/replacement stock.
+--------------------------------------------------

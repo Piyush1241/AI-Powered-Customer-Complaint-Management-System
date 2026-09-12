@@ -1,0 +1,33 @@
+# Dependencies
+node_modules/
+venv/
+__pycache__/
+*.pyc
+
+# Environment & Credentials
+.env
+*.env
+*.env.local
+
+# Databases & Runtime Logs
+*.db
+*.sqlite
+*.log
+
+# Build Outputs
+dist/
+build/
+
+# OS / IDE Junk
+.DS_Store
+.vscode/
+.idea/
+
+# Temporary / Scratch Files
+scratch_*.py
+scratch/
+completeness
+duplicate
+extract
+merge
+risk_capa
