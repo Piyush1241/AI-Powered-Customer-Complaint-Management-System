@@ -53,19 +53,6 @@ export default function Navbar() {
               <LayoutDashboard className="h-4 w-4" />
               <span>QMS Dashboard</span>
             </button>
-
-            <button
-              id="tab-walkthrough"
-              onClick={() => dispatch(setActiveTab('walkthrough'))}
-              className={`flex items-center space-x-2 px-4 py-2 text-sm font-medium rounded-md transition-colors ${
-                activeTab === 'walkthrough'
-                  ? 'bg-blue-600 text-white font-bold shadow-sm'
-                  : 'text-blue-700 bg-blue-50 hover:bg-blue-100 font-semibold border border-blue-200'
-              }`}
-            >
-              <Code2 className="h-4 w-4" />
-              <span>Code Walkthrough (Video 2)</span>
-            </button>
           </nav>
 
           {/* Regulatory Compliance Badge */}
